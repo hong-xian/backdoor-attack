@@ -1,4 +1,4 @@
-# The Experiments For 《Generalization Bound and New Algorithm for Clean-Label Backdoor Attack》
+# The Experiments For ICML24《Generalization Bound and New Algorithm for Clean-Label Backdoor Attack》
 
 ### What we offer here is the code that find backdoor poison on CIFAR-10, use the network VGG16 and Resnet. 
 
